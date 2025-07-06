@@ -1,0 +1,4 @@
+---
+name: Namco
+address: Japan
+---
