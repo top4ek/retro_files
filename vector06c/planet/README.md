@@ -8,6 +8,6 @@ authors:
   - ses
 ---
 
-«Музыкальное демо» от [S.E.S.](../authors/ses)
+«Музыкальное демо» от [S.E.S.](../../authors/ses)
 
 ![Screenshot 1](planet.png)
