@@ -1,0 +1,54 @@
+
+                     SVOFSKI & IVAGOR proudly present 
+             a 6666 byte intro for the unexpanded Vector-06C
+
+   ,wwWWWJ      YMb    MMM    jMWP           ndMMMMmd,uuummAPP  MMMnMMAbn  zMWP
+ dwMMMWWP'     jMPMb   MMM  jwMWP          dWPP   YMj;MMMYYYYL  MMMP  YMMb WMMY
+ MMM         ,jMP YMb  MMMbwdWWP    JP    PMMY       MMMM       MMM   jMMP MMW!
+ MMMdPMMMb  jdMW   WMb MMMMWWKk   ddWWPP JMMM       jMMMddMPMWb MMMWWMMP   MMP 
+ MMMP   JML;MWWP    YMb:MMW  YWWk   MP   YMMML      MMMM!  YMMMM:MMP       MP
+ MMMmJMWMMP;MMP      YMb;MW    YWWk.       YMMMWbnnd MMMM  ddMMY MMM         
+ MP""     "YMP        YMMbJ      YWWP       TMWWWWWP:MMMWWWWP   MMM       Zta
+
+-  --------------------------------------------------------------- - - - -  -
+
+     *) BLK+SBR! - a key combo used to reset or start a loaded program
+
+
+
+     This is in essence a bbstro because it advertises an archive 
+     or index (Kartoteka) of software and documentation for Vector-06c.
+     
+     Back in the early 90s I saw what I believe was a PC bbstro,
+     or a cracktro, which featured a 3.5-inch floppy flying in space. 
+     I replicated it back then (the demo was called "Cereus"), but
+     it was lost forever. Now it's time to return to the old idea,
+     downshifting to 5.25" floppy on a 8-bit computer.
+
+
+     Technical info:
+     ---------------
+
+     CPU:   KR580VM80A (Intel 8080A) @ 3.0 MHz
+     RAM:   64K of which 32K is allocated to 256x256@4bpp bitmap graphics
+     Sound: KR580VI53 (Intel 8253) 3-channel programmable interval timer
+     
+
+     Full credits:
+     -------------
+
+     idea, graphics       svofski
+     code                 svofski, ivagor
+     insane optimisations ivagor
+     music                echoing variation #53 by svofski (ft. ivagor on bass)
+                          echoing.mod author unknown (?)
+
+     Vortex Tracker II converter and VI53 player by Denis Grachev.
+     .nfo ASCII art by Zta https://lw.asklandd.dk
+
+     ---   --   -    -       -        -          -           -
+
+     Vector-06c is a unique, feature rich home computer from the 80s USSR.
+     It needs your code to shine.
+
+     Visit https://caglrc.cc/scalar to learn more about it.
