@@ -4,7 +4,6 @@ date: 1995
 tags:
   - ay
   - demo
-    - elita
 authors:
   - sergeev
 ---

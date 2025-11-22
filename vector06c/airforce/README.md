@@ -1,6 +1,5 @@
 ---
 name: Air Force
-date: 1995
 tags:
   - flight
   - game
@@ -16,4 +15,4 @@ authors:
 
 
 ![Screenshot 1](airforce1.png)
-![Screenshot 2](airforce.png)
+![Screenshot 2](airforce2.png)
