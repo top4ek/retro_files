@@ -1,0 +1,352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+  <link rel="icon" href="../../m/basis-2.png" type="image/png"/>
+  <link href="../../css/ware.css" type="text/css" 
+    rel="stylesheet"/> <!-- persistent -->
+  <link href="../../css/ware-1.css" type="text/css" rel="stylesheet" 
+ title="a"/>
+  <link href="../../css/ware-2.css" type="text/css" rel="alternate stylesheet" title="b"/>
+  <link href="../../css/ware-3.css" type="text/css" rel="alternate stylesheet" title="c"/>
+  <link href="../../css/ware-4.css" type="text/css" rel="alternate stylesheet" title="d"/>
+
+  <link rel="alternate" type="application/rss+xml" title="Новые поступления в Базис" href="../../feed.xml" />
+  <title>Формула-1 — учётная карточка — Базис</title>
+
+  <script type="text/javascript" src="../../media/styleswitcher.js"></script> 
+  <script type="text/javascript" src="../../media/tape.js"></script> 
+  <script type="text/javascript" src="../../media/makewav.js"></script> 
+  <script type="text/javascript" src="../../media/openfile.js"></script> 
+  <script type="text/javascript" src="../../media/zip.js/WebContent/zip.js"></script> 
+
+  <script type="text/javascript">
+  function shufflebg(bg) {
+    bod = document.getElementById('telce');
+    bod.style.background = bg;
+  }
+  </script>
+
+
+  </head>
+<body id="telce">  
+
+<div id="main">
+
+
+
+<div id="blackheader">
+
+<table class="title"><tr>
+  <td id="tittit">Формула-1</td>
+  <td id="tityear"></td>
+</tr></table>
+
+</div>
+<div id="edit">
+ 
+ &nbsp;
+ 
+</div>
+
+<div style="clear:both">&nbsp;</div>
+
+<div id="categories">
+<div id="cathdr"><a class="tocatlist" href="../../categories/index.html">Категории:</a></div>
+
+<a
+ style="margin-left:0.2em" 
+
+ class="catref" href="../../categories/game/index.html">game</a>
+
+<a
+
+
+ class="catref" href="../../categories/racing/index.html">racing</a>
+
+<a
+
+ style="margin-right:0.2em" 
+ class="catref" href="../../categories/vi53-music/index.html">vi53-music</a>
+
+</div>
+
+<div id="rightbox">
+ <div id="screenshat">
+  
+   <div id="screentit">Скриншоты:</div>
+   
+	
+	<div id="emulator-container">
+    	<img style="display:block;width:384px;height:288px;" 
+	    alt="Скриншот: Формула-1" 
+		class="screenshot first" 
+		src="../../media/s/formula-1.png"
+		onclick="load_vector06js(); return false;" />
+	<div id="emulator-container-middle" onclick="load_vector06js();return false;">
+	    <div id="emulator-container-vertical">
+	        <div id="emulator-container-inner">
+		&#9654;
+	        </div>
+	    </div>
+	</div>
+	</div>
+	
+    
+   
+ 
+</div>
+
+</div> <!--rightbox-->
+
+<div id="description">
+
+Классические гонки&nbsp;на машинках.<br/><br/>Игра распространялась кооперативом COMAN.<br/>
+
+</div>
+
+<div style="clear:left;">&nbsp;</div>
+<div class="authors">
+
+<span class="subitemhdr">Автор:</span>
+
+<span class="subitemlist">
+
+
+    <a class="authorref" href="../../author/71/index.html">Барвиненко&nbsp;С.В.&nbsp;</a>
+
+
+</span>
+</div>
+
+
+<div class="authors">
+<span class="subitemhdr">
+
+Имена файлов:
+
+</span>
+
+  <span class="fname">formula,
+  </span>  
+
+  <span class="fname">formula1
+  </span>  
+
+</div>
+
+
+
+
+
+
+
+
+
+<div style="clear:left;">&nbsp;</div>
+<div class="authors">
+<span class="subitemhdr">Файл:</span>
+
+<a class="urldownload" id="zip-file" href="../../media/w/formula1.zip">formula1.zip</a> <span class="filesize">(25&nbsp;Кб) 
+<a class="ellipsis" id="wav-play" target="_blank" onclick="open_file('https://caglrc.cc', '/scalar/media/w/formula1.zip', 'formula1.zip'); return false;">[...]</a>
+</span>
+
+</div>
+
+
+
+
+
+<script>
+    update_button_text("formula1.zip");
+
+    iframe = undefined;
+    container = undefined;
+    placeholder = undefined;
+    oldtext = undefined;
+    ruslat_light = undefined;
+
+    function load_vector06js() {
+        container = document.getElementById("emulator-container");
+	var overlay = document.getElementById("emulator-container-middle");
+	if (overlay) {
+		overlay.style.display = "none";
+	}
+        placeholder = container.getElementsByTagName('img')[0];
+        if (placeholder) {
+            iframe = document.createElement('iframe');
+	    iframe.id = 'emulator';
+            var w = placeholder.clientWidth;
+            var h = placeholder.clientHeight;
+            if (w < 384) {
+                w = 384;
+                h = 288;
+            }
+            iframe.style.width = w + 'px';
+            iframe.style.height = h + 'px';
+
+            iframe.src = '/scalar/vector06js/vector06js.html?i+https://caglrc.cc/scalar/media/w/formula1.zip';
+            //container.replaceChild(iframe, placeholder);
+	    placeholder.style.display = 'none';
+	    container.appendChild(iframe);
+
+		iframe.onload = function() {
+			iframe.contentWindow.focus();
+		};
+        }
+    }
+
+    function registerHooks(hooks) {
+      var tit = document.getElementById('screentit');
+      oldtext = tit.innerText;
+      tit.innerText = '';
+      
+      ruslat_light = document.createElement('div');
+      ruslat_light.id = 'ruslat';
+      ruslat_light.innerText = '•';
+      tit.appendChild(ruslat_light);
+
+      for (var name in hooks) {
+	if (name === 'about') {
+	  var aboot = document.createElement('span');
+	  tit.appendChild(aboot);
+	  aboot.innerText='Вектор-06жс';
+	  (function(cb) {
+		  aboot.onclick = function() {
+			console.log('aboot.onclick', cb);
+			cb(true);
+	  	};
+	  })(hooks[name]);
+	}
+	if (name === 'blksbr') {
+	  var reboot = document.createElement('span');
+	  tit.appendChild(reboot);
+	  reboot.innerText='БЛК+ВВОД';
+	  (function(cb) {
+		reboot.onclick = function() {
+			cb(true);
+			iframe.contentWindow.focus();
+		};
+	  })(hooks[name]);
+	  var restart = document.createElement('span');
+	  tit.appendChild(restart);
+	  restart.innerText='БЛК+СБР';
+	  (function(cb) {
+		restart.onclick = function() {
+			cb(false);
+			iframe.contentWindow.focus();
+		};
+	  })(hooks[name]);
+	}
+      }
+      // add removal hook
+      var close = document.createElement('span');
+      tit.appendChild(close);
+      close.innerText='×';
+      close.className = "close";
+      (function() {
+	close.onclick = function() {
+		container.removeChild(iframe);
+		placeholder.style.display = 'block';
+		document.getElementById('screentit').innerText = oldtext;
+	};
+      })();
+    }
+
+    function fullscreenx() {
+    	document.getElementById('emulator').contentWindow['fullscreener'].exec();
+    }
+
+
+    fullscreen = function(noWarningForNotSupported) {
+        var isFullScreen = document.mozFullScreen || document.webkitIsFullScreen;
+        if (!isFullScreen) {
+	    var elem = document.getElementById("emulator");//.contentWindow['canvasdiv'];
+
+            if (elem.requestFullScreen) {
+                elem.requestFullScreen();
+            } else if (elem.mozRequestFullScreen) {
+                elem.mozRequestFullScreen();
+            } else if (elem.webkitRequestFullScreen) {
+                elem.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT);
+            } else {
+                if (!(noWarningForNotSupported == true)) alert("Fullscreen not supported. Try Firefox or Chrome.");
+            }
+        } else {
+            if (document.cancelFullScreen) {
+                document.cancelFullScreen();
+            } else if (document.mozCancelFullScreen) {
+                document.mozCancelFullScreen();
+            } else if (document.webkitCancelFullScreen) {
+                document.webkitCancelFullScreen();
+            }
+        }
+    };
+
+    xruslat = function(on) {};
+
+    ruslat = function(on) {
+	//console.log("ruslat=", on);
+	ruslat_light.className = on ? "on" : "";
+    };
+
+
+
+</script>
+
+
+
+
+<div style="clear:both">&nbsp;</div>
+
+<div id="globalx">
+<form action="https://caglrc.cc/scalar/search/" method="get" id="searchform">
+<div id="searchinput"><input type="text" name="query" id="searchquery"/></div>
+</form>
+<span class="s">
+КАРТОЧКИ:
+<a class="innerdecorless" href="../index.html">ВСЕ</a> /
+<a class="innerdecorless" href="../../categories/recent20/index.html">ПОСЛЕДНИЕ 20
+</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../../categories/index.html">КАТЕГОРИИ</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../../author/index.html">АВТОРЫ</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../random/index.html">НАУГАД</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../../categories/missing/index.html">РОЗЫСК</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../../index.html">ТИТУЛЬНАЯ&nbsp;СТРАНИЦА</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../../about/index.html">О&nbsp;ПРОЕКТЕ</a>&nbsp;&nbsp;
+<a class="innerdecorless" href="../../feed.xml">
+&nbsp;&nbsp;<img style="height:2ex;position:relative;bottom:-0.5ex;border:0px;" src="../../m/i/feed-icon-14x14.png" alt=""/>
+RSS</a>&nbsp;&nbsp;
+</span>
+&nbsp;<!-- a strut for ie -->
+</div>
+
+</div> <!--main-->
+
+<div id="styles">
+&nbsp;
+<a class="astyle" href="index.html#"
+ onclick="setActiveStyleSheet('a');return false;">&nbsp;
+ </a><a class="astyle" href="index.html#"
+ onclick="setActiveStyleSheet('b');return false;">&nbsp;
+ </a><a class="astyle" href="index.html#"
+ onclick="setActiveStyleSheet('c');return false;">&nbsp;
+ </a><a class="astyle" href="index.html#"
+ onclick="setActiveStyleSheet('d');return false;">&nbsp;
+ </a>
+</div>
+
+<div id="longcat">
+<table cellspacing="0" cellpadding="0" style="height:100%">
+<tr><td><img src="../../media/tg-top.png" alt=""/></td></tr>
+<tr><td style="height:100%;background: url(../../media/tg-long.png) repeat-y;"/>&nbsp;</td></tr>
+<tr><td><img src="../../media/tg-bot.png" alt=""/></td></tr>
+</table>
+</div>
+
+<div id="copyright">
+ <span id="copspan"><b>Базис</b> &mdash; картотека программ для ПК &laquo;Вектор-06ц&raquo;&nbsp;&nbsp;&copy;&nbsp;2008,2009&nbsp;<a class="innerdecorless" href="mailto:s v o f s k i monkey g m a i l period c o m">Вячеслав&nbsp;Славинский</a></span><br/>
+ <span id="copspan">Архивариусы: Иван Городецкий, Вячеслав Славинский, Александр Тимошенко.</span>
+</div>
+
+</body>
+</html>
