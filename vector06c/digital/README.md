@@ -6,8 +6,11 @@ tags:
   - sound
 authors:
   - ses
+  - akhramov
 require:
   - microdos
+youtube:
+  - https://www.youtube.com/watch?v=U7LHyGllVlU
 ---
 
 Демонстрация оцифрованного звука на Векторе.
