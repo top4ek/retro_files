@@ -5,6 +5,7 @@ tags:
   - ay
   - demo
   - e-zine
+  - event
 authors:
   - akhramov
   - ses

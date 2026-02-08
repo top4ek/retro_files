@@ -9,6 +9,7 @@ tags:
   - shooter
 authors:
   - centr_computer
+  - fleiderman
 ---
 
 Позитивная стрелялка.
