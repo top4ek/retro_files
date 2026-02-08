@@ -4,7 +4,6 @@ date: 1994
 tags:
   - arcade
   - game
-  - multiplayer
 authors:
   - amsoft
   - fedin
