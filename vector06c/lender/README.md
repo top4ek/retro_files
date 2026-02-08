@@ -1,5 +1,5 @@
 ---
-name: Лэндер-Н
+name: Лэндер
 date: 1994
 tags:
   - game
@@ -11,7 +11,7 @@ authors:
 
 За 60 шагов человеку-невидимке требуется найти выход из лабиринта.
 
-См. так же [Лэндер](../lender)
+См. так же [Лэндер-Н](../lendern)
 
-![Screenshot 1](lendern1.png)
-![Screenshot 2](lendern2.png)
+![Screenshot 1](lender1.png)
+![Screenshot 2](lender2.png)
