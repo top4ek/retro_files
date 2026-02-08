@@ -6,13 +6,14 @@ tags:
   - game
   - racing
 authors:
-  - unknown
+  - centr_computer
+  - morar
 ---
 
 Вы — косильщик.
 Ваша участь — косить траву.
 
-См. также [Colorwar](../color_war)
+См. также [Colorwar](../colorwar)
 
 ![Screenshot 1](mover1.png)
 ![Screenshot 2](mover2.png)
