@@ -17,9 +17,9 @@ tags:
 
 1-ое место Corpse
 
-2-ое место Приключения Флэксика
+2-ое место [Приключения Флэксика](./flaksic)
 
-3-е место Витамино
+3-е место [Витамино](./vitamino)
 
 4-е место  Space Station 5
 
@@ -34,3 +34,5 @@ tags:
 ![Screensho1 1](./rctxt06c/rctxt06c.png)
 ![Screenshot 2](./invitro/invitro.png)
 ![Screenshot 3](./konmove/konmove.png)
+![Screenshot 5](./flaksic/flaksic1.png)
+![Screenshot 6](./vitamino/vitamino1.png)
