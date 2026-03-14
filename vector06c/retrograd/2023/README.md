@@ -29,6 +29,6 @@ tags:
 
 2-е место [RETROGRAD Invitro](./invitro)
 
-3-е место  Ход Конём
+3-е место [Ход Конём](./konmove)
 
 ![Screenshot 1](metamorpho-retrograd-invitro.png)
