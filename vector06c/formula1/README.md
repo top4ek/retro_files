@@ -3,11 +3,13 @@ name: Формула-1
 tags:
   - game
   - racing
-  - vi53
+  - vi53-music
 authors:
   - barvinenko
 ---
 
-Распространялась кооперативом COMAN.
+Классические гонки на машинках.
 
-![Screenshot 1](formula1.png)
+Игра распространялась кооперативом COMAN.
+
+![Screenshot 1](formula-1.png)
