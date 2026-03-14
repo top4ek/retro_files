@@ -15,7 +15,7 @@ tags:
 
 ИГРЫ
 
-1-ое место Corpse
+1-ое место [Corpse](./corpse)
 
 2-ое место [Приключения Флэксика](./flaksic)
 
@@ -35,4 +35,5 @@ tags:
 ![Screenshot 2](./invitro/invitro.png)
 ![Screenshot 3](./konmove/konmove.png)
 ![Screenshot 5](./flaksic/flaksic1.png)
+![Screenshot 5](./corpse/corpse1.png)
 ![Screenshot 6](./vitamino/vitamino1.png)
