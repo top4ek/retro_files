@@ -10,7 +10,7 @@ youtube:
   - https://www.youtube.com/watch?v=071Tm8opKTk
 ---
 
-1024-байтное интро с логотипом фестиваля Undefined 2023.
+1024-байтное интро с логотипом фестиваля [Undefined 2023](../).
 
 [svofski](../../authors/svo): идея, алгоритмы и код
 [igavor](../../authors/ivagor): Колдунства Вектор-06ц
