@@ -1,6 +1,9 @@
 ---
 name: Ужас 3
 date: 1993
+tags:
+  - game
+  - platform
 authors:
   - zhelnovpa
 ---
