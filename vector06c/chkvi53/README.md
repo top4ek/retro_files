@@ -6,7 +6,7 @@ tags:
   - test
   - utility
 authors:
-  - ivagor_1
+  - ivagor
 ---
 
 Тест чтения (на лету и с защелкиванием) ВИ53 для Вектора.
