@@ -6,7 +6,7 @@ tags:
   - document
   - missing
 authors:
-  - pc_invoservis
+  - invoservis
 ---
 
 Каталоги PC-Инвосервис

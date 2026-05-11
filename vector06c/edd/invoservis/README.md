@@ -6,7 +6,7 @@ tags:
   - hardware
   - kvaz
 authors:
-  - pc_invoservis
+  - invoservis
 ---
 
 См. так же [Инструкция по подключению квазидиска и контроллера дисковода](../unknown), [Квазидиск (Кишинев)](../kishinev) и [Квазидиск (Омск)](../omsk)

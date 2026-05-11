@@ -6,7 +6,7 @@ tags:
   - document
   - hardware
 authors:
-  - pc_invoservis
+  - invoservis
 ---
 
 См. также [Внешнее ПЗУ (реверс-инженеринг)](./reversed)
