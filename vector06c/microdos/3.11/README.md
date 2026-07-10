@@ -5,7 +5,7 @@ tags:
   - os
 authors:
   - unknown
-  - filippov_e_v
+  - filippov
 ---
 
 A,B - FDD
