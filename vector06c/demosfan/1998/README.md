@@ -39,3 +39,5 @@ Intro Compo:
 1. [df98gfx](./df98gfx)
 
 Подробный отчет о мероприятии содержится в журнале [Scaner №5](../../scaner5).
+
+![Screenshot 1](demosfan98.png)

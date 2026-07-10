@@ -12,4 +12,4 @@ authors:
 
 Игра распространялась кооперативом COMAN.
 
-![Screenshot 1](formula-1.png)
+![Screenshot 1](formula1.png)

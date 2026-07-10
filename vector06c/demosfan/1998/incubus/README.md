@@ -35,3 +35,7 @@ authors:
 После загрузки программы нажать `F12`.
 
 https://demozoo.org/productions/142272/
+
+![Screenshot 1](incubus1.png)
+
+![Screenshot 2](incubus2.png)

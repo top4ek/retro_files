@@ -30,6 +30,6 @@ rmp.bat имя_rmp_модуля
 
 Обновление 08.09.2022: исправлено несколько существенных ошибок.
 
-См.также [Real Music Player](../real_music_plauer), [vi53 second to none](../caf/vi83s2n), [Progressive Demo](../progresive_demo)
+См.также [Real Music Player](../real_music_player), [vi53 second to none](../caf/vi83s2n), [Progressive Demo](../progresive_demo)
 
 ![Screenshot 1](enlight_100.png)

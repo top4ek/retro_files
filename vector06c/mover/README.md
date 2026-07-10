@@ -15,5 +15,5 @@ authors:
 
 См. также [Colorwar](../colorwar)
 
-![Screenshot 1](mover1.png)
-![Screenshot 2](mover2.png)
+![Screenshot 1](mower1.png)
+![Screenshot 2](mower2.png)

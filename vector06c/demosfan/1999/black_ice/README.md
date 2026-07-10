@@ -13,7 +13,7 @@ youtube:
 
 Бодрая демка с энергичной музыкой и мультиколором.
 
-Другие демки с растровыми видеоэффектами: [Multicolor](../multicolor), [Dizzy (реклама 1)](../dizzy_adv1)
+Другие демки с растровыми видеоэффектами: [Multicolor](../../../multicolor), [Dizzy (реклама 1)](../../../dizzy_adv1)
 
 
 https://demozoo.org/productions/314573/

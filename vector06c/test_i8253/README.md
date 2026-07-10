@@ -22,5 +22,5 @@ authors:
 
 См.также [chkvi53](../chkvi53)
 
-![Screenshot 1](I8253_11-45-18.png)
+![Screenshot 1](I8253_2.png)
 ![Screenshot 2](tst8253.png)

@@ -12,8 +12,8 @@ youtube:
 
 1024-байтное интро с логотипом фестиваля [Undefined 2023](../).
 
-[svofski](../../authors/svo): идея, алгоритмы и код
-[igavor](../../authors/ivagor): Колдунства Вектор-06ц
+[svofski](../../../../authors/svo): идея, алгоритмы и код
+[igavor](../../../../authors/ivagor): Колдунства Вектор-06ц
 
 [https://www.pouet.net/prod.php?which=94986](https://www.pouet.net/prod.php?which=94986)
 

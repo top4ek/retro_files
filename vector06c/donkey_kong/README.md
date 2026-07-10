@@ -11,4 +11,4 @@ authors:
 ---
 
 ![Screenshot 1](donkong1.png)
-![Screenshot 2](donkonf2.png)
+![Screenshot 2](donkong2.png)

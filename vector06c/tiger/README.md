@@ -9,6 +9,6 @@ authors:
 
 Просто картинка. Найдена при оцифровке кассеты.
 
-См. так же [../mech](Mech)
+См. так же [Mech](../mech)
 
 ![Screenshot 1](tiger.png)

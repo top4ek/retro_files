@@ -1,5 +1,5 @@
 ---
-name: PutUp
+name: Tank Battalion
 date: 2008.10.27
 tags:
   - arcade
@@ -10,11 +10,6 @@ authors:
   - namco
   - gorodetskyi
   - timsoft
-screenshots:
-  - screen.jpg
-files:
-  - putup.rom
-  - putup_jps.rom
 ---
 
 Tank Battalion — аркадная игра, выпущенная Namco в 1980 г. В 1984 г. портирована на MSX под оригинальным названием. В 1985 г. портирована на приставку NES под названием Battle City. В 2008 году версия для MSX была дизассемблирована, рекомпилирована с кода процессора Z80 в код КР580ВМ80А и адаптирована на ПК «Вектор-06Ц» (версия 1.0 — 19.08.2008).

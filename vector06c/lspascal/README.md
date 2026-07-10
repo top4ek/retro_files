@@ -25,4 +25,4 @@ authors:
 
 Компилятор языка ЛС-Паскаль.djvu — описание ОС-Паскаль в формате DjVu
 
-![Screenshot 1](lspacal.png)
+![Screenshot 1](lspascal.png)
