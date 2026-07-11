@@ -5,6 +5,7 @@ date: 2011
 tags:
   - boulderdash
   - game
+  - sourcecode
 authors:
   - ivagor
   - lebedev
