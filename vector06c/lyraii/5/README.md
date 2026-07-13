@@ -8,6 +8,9 @@ tags:
   - zx
 authors:
   - merinov
+controls:
+  rows:
+    - [ f12 ]
 ---
 
 Пятая часть из демки Lyra II.
