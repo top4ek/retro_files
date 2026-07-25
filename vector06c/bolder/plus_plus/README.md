@@ -9,7 +9,7 @@ authors:
   - lebedev
 controls:
   rows:
-    - [{ key: "cc", label: "Монохром/Цвет" }, { key: "us", label: "Уровень" }, { key: "rus", label: "Скорость" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
+    - [{ key: "ss", label: "Монохром/Цвет" }, { key: "us", label: "Уровень" }, { key: "rus", label: "Скорость" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
     - [~, "up", ~]
     - ["left", "down", "right"]
 ---
