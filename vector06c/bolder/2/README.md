@@ -10,6 +10,11 @@ authors:
   - lans_soft
   - lebedev
   - novikov
+controls:
+  rows:
+    - [{ key: "rus", label: "Монохром" }, { key: "ss", label: "Цвет" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
+    - [~, "up", ~]
+    - ["left", "down", "right"]
 ---
 
 См. также [другие версии](../).

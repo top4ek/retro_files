@@ -12,6 +12,11 @@ authors:
   - novikov
 youtube:
   - http://www.youtube.com/watch?v=nSh3MkSL2Zs
+controls:
+  rows:
+    - [{ key: "rus", label: "Монохром" }, { key: "ss", label: "Цвет" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
+    - [~, "up", ~]
+    - ["left", "down", "right"]
 ---
 
 См. также [другие версии](../).

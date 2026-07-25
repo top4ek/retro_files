@@ -8,6 +8,11 @@ tags:
   - vi53-music
 authors:
   - lebedev
+controls:
+  rows:
+    - [{ key: "us", label: "Монохром" }, { key: "rus", label: "Турбо" }, { key: "ss", label: "Цвет" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
+    - [~, "up", ~]
+    - ["left", "down", "right"]
 ---
 
 Первая версия знаменитого Болдера. Из-за сложной системы защиты, эту игру очень сложно запустить в эмуляторах.

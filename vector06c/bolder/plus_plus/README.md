@@ -7,6 +7,11 @@ tags:
 authors:
   - ivagor
   - lebedev
+controls:
+  rows:
+    - [{ key: "cc", label: "Монохром/Цвет" }, { key: "us", label: "Уровень" }, { key: "rus", label: "Скорость" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
+    - [~, "up", ~]
+    - ["left", "down", "right"]
 ---
 
 Болдер++ — оптимизированный вариант игры Болдер (и Болдер+) для ПК «Вектор-06Ц».
