@@ -13,6 +13,7 @@ youtube:
   - http://www.youtube.com/watch?v=fMZgVUnpu5U
 controls:
   rows:
+    - [~, ~, "rus"]
     - ["left", "enter", "right"]
 ---
 
