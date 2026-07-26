@@ -10,7 +10,7 @@ authors:
   - unknown
   - ses
   - karpov_d
-  - tret_akov_a_l
+  - tretyakov
   - hramov_a
 youtube:
   - http://www.youtube.com/watch?v=1YkPjqISQVk&fmt=18
