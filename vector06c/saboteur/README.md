@@ -14,6 +14,8 @@ authors:
 
 Найденный сейф можно взорвать и взять деньги. Теперь с полным снаряжением вы должны найти ракету и...»
 
+См. так же [Tiger](../tiger)
+
 ![Screenshot 1](saboteur1.png)
 
 ![Screenshot 2](VOLGGRAD3.png)
