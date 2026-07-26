@@ -9,6 +9,11 @@ tags:
 authors:
   - ivagor
   - lebedev
+controls:
+  rows:
+    - [{ key: "us", label: "Монохром" }, { key: "rus", label: "Турбо" }, { key: "ss", label: "Цвет" }, { key: "ps", label: "Демо" }, { key: "enter", label: "Старт" }, { key: "tab", label: "Харакири"} ]
+    - [~, "up", ~]
+    - ["left", "down", "right"]
 ---
 
 Оптимизированный вариант игры [Болдер](..) для ПК «Вектор-06Ц». См. также [Болдер++](../plus_plus).
