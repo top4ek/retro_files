@@ -2,6 +2,7 @@
 name: Gotek
 tags:
   - hardware
+  - document
 authors:
   - unknown
 url: https://www.gotekemulator.com/
