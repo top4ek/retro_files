@@ -5,7 +5,7 @@ tags:
   - demo
   - basic
 authors:
-  - aGGreSSor
+  - aggressor
 require:
   - basic/2.997
 ---
