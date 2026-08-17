@@ -8,6 +8,7 @@ tags:
   - game
 authors:
   - samarin_i
+  - samarin_s
 ---
 
 Кто теперь посмеет утверждать, что на Векторе нет клона игры River Raid?
