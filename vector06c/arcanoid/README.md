@@ -8,7 +8,7 @@ tags:
 authors:
   - brick_software
   - elita
-  - belkin_i
+  - belkin
 ---
 
 Авторство неочевидно.

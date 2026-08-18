@@ -7,7 +7,7 @@ authors:
   - ask
 ---
 
-См. серия [Rock Man](..).
+См. серия [Rock Man](../).
 
 ![Screenshot 1](rockman21.png)
 ![Screenshot 2](rockman22.png)
