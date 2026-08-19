@@ -1,5 +1,6 @@
 ---
 name: COMAN
+id: 35
 address: Москва
 ---
 
