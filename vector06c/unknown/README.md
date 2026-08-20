@@ -2,7 +2,7 @@
 name: Unknown
 date: 1994
 authors:
-  - fms_soft
+  - merinov
 tags:
   - ay
   - demo
