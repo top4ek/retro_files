@@ -5,7 +5,7 @@ tags:
   - game
   - maze
 authors:
-  - glavinskij
+  - glavinskiy
   - ses
   - rogov
 ---

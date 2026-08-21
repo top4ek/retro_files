@@ -8,7 +8,7 @@ tags:
   - sourcecode
 authors:
   - hudson
-  - gorodetskyi
+  - ivagor
   - timsoft
 ---
 

@@ -8,7 +8,7 @@ tags:
   - sourcecode
 authors:
   - namco
-  - gorodetskyi
+  - ivagor
   - timsoft
 ---
 
