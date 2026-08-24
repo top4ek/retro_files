@@ -4,7 +4,7 @@ date: 1992
 tags:
   - development
 authors:
-  - ignatyev
+  - ignatyev_a
 ---
 
 Среда разработки, состоящая из текстового редактора, ассемблера и монитора.
