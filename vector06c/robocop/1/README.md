@@ -8,7 +8,7 @@ tags:
   - shooter
 authors:
   - elita
-  - krivzov
+  - krivtsov
   - sergeev
   - stepanov
 youtube:

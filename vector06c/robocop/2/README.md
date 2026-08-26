@@ -8,7 +8,7 @@ tags:
   - game
 authors:
   - elita
-  - krivzov
+  - krivtsov
   - sergeev
   - stepanov
 youtube:

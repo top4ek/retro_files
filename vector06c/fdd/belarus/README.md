@@ -7,7 +7,7 @@ tags:
   - document
   - hardware
 authors:
-  - kuz_min_v
+  - kuzmin
   - chebotarev
 ---
 

@@ -8,7 +8,7 @@ tags:
   - sourcecode
   - stakan
 authors:
-  - kondratovic
+  - kondratovich
   - kuropyatnikov
 ---
 
