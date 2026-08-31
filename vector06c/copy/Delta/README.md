@@ -6,7 +6,7 @@ tags:
   - copy
 authors:
   - schetmash
-  - luppow
+  - luppov
   - kuropyatnikov
 ---
 
