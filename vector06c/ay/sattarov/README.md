@@ -7,7 +7,7 @@ tags:
   - hardware
   - sound
 authors:
-  - zentr__viktoria
+  - centr_viktoria
   - sattarov
 ---
 
