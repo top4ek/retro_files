@@ -4,6 +4,9 @@ tags:
   - arcade
   - game
   - maze
+authors:
+  - pelts
+  - sirotin
 ---
 
 ![Screenshot 1](./1/ROBBO11.png)

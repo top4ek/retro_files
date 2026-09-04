@@ -11,8 +11,6 @@ authors:
   - pavlenko
 ---
 
-
-
 ![Screenshot 1](jurnalis.png)
 
 ![Screenshot 2](jurnalis2.png)
