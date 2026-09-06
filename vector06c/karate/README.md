@@ -7,12 +7,14 @@ tags:
   - game
   - zx
 authors:
-  - ropevic_nikola
+  - ropevic
   - luppov
   - pestov
 ---
 
-Адаптация известной игры с ZX Spectrum. В архиве две версии игры и реклама.
+Адаптация известной игры с ZX Spectrum.
+
+В архиве две версии игры и реклама.
 
 ![Screenshot 1](karate1_.png)
 
