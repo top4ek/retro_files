@@ -3,8 +3,6 @@ title: Плюк
 date: 2024.09
 authors:
   - retrosouls
-links:
-  - bk/plyuk
 ---
 
 Во время вечерней прогулки Плюк провалился в жуткую пещеру полную опасных ловушек!
@@ -26,6 +24,8 @@ links:
 Музыка [Олега Никитина](../../authors/onikitin)
 
 Тестировал [Артёмка Васильев](../../authors/avasiliev)
+
+См. так же Плюк для [БК](../../bk/plyuk)
 
 ![Screenshot 1](plyuk1.png)
 ![Screenshot 2](plyuk2.png)

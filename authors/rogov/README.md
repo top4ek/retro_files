@@ -1,5 +1,6 @@
 ---
-name: Рогов А.К.
+name: Рогов А.
+id: 64
 address: Иркутск
 ---
 Cinema Soft
