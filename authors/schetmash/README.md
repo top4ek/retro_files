@@ -1,5 +1,6 @@
 ---
 name: ПО «Счетмаш»
+id: 1
 website: https://sigma.md/?id=10&lng=rus
 address: Кишинёв
 screenshots:
