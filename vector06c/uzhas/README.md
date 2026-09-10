@@ -6,7 +6,7 @@ tags:
   - game
   - shooter
 authors:
-  - zhelnovpa
+  - zhelnov
 youtube:
   - http://www.youtube.com/watch?v=Bes_8wykso8
 ---

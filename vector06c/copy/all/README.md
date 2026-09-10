@@ -5,7 +5,7 @@ tags:
   - copy
   - tape
 authors:
-  - zhelnovpa
+  - zhelnov
 ---
 
 Копировщик с магнитофона на магнитофон.
