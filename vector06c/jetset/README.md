@@ -11,7 +11,7 @@ authors:
   - avk
   - zastavnoj
   - kuropatnikov
-  - smit_m
+  - smit
 ---
 
 Адаптация с ZX Spectrum.
