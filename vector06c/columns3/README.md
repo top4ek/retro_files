@@ -7,7 +7,7 @@ tags:
   - stakan
 authors:
   - luppov
-  - pestov_s_e
+  - pestov
 ---
 
 Монохромные цветные столбики, в которых цвет заменен костями домино.
