@@ -1,0 +1,61 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+              8
+            B I T
+          S N A I L
+
+            ``_@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A fast intro for Vector-06C
+      home computer.
+  Released by svo in 2009
+at Chaos Constructions party
+ in St.Petersburg, Russia
+
+4th place in ZX/Oldkool compo
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Code/Graphics: svo
+     http://sensi.org/~svo
+
+PT2 player by S.E.S.
+
+DeEXO code by ivagor (Ivan Gorodetsky)
+
+Music:
+     Flash In Paradise/Prog Master
+     http://zxtunes.com/author.php?id=584
+     Thanks for the tune!
+
+Release notes:
+~~~~~~~~~~~~~~
+
+This is the updated version that works on the real
+V06C!
+8snail.com: 	with music/needs kvaz
+s8snail.com: 	silent, works on unmodded v06c
+
+This intro is a research into unknown or unexploited
+capabilities of V06C hardware. At the time of writing
+this note I could not test it on the original HW.
+It's only tested on the FPGA replica of Vector-06c.
+No emulator can run it properly at the time of release,
+better stick to watching the video. Should this be ran
+on real HW, a ramdisk is necessary and the music is
+played on external AY module.
+
+Vector-06c has no display lists, no text mode and no
+sprites. All it has is a fairly large video buffer
+consisting of 4 bit planes, programmable palette and one
+raster interrupt.
+
+It's possible to do raster effects, but they occupy a lot
+of processor time because there's only one fixed interrupt
+that occurs at the end of visible frame. Basically
+it means that if you do rasters, there's little to no
+time to do anything else at all. But still there's time ;)
+
+I hope you enjoyed the show and maybe we'll see more
+releases for this rare platform in the future.
