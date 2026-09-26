@@ -6,13 +6,13 @@ tags:
   - game
   - multiplayer
 authors:
-  - sistemotehnika
+  - systemotechnika
   - centr_computer
   - fleiderman
 ---
 
 Популярная игра «Бизнес» (аналог игры «Монополия») для двух игроков.
-Компиляция бейсик игры [Business](../business) в виде ROM-файла.
+Компиляция бейсик игры [Business](../bas) в виде ROM-файла.
 
 ![Screenshot 1](BUSINESS1.png)
 
