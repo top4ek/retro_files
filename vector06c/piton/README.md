@@ -5,7 +5,7 @@ tags:
   - arcade
   - game
 authors:
-  - kuznezov
+  - kuznetsov
 ---
 
 Питон.

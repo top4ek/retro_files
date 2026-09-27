@@ -5,7 +5,7 @@ tags:
   - editor
   - graphics
 authors:
-  - kuznezov
+  - kuznetsov
 ---
 
 ![Screenshot 1](dekorator11.png)

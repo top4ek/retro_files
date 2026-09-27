@@ -9,7 +9,7 @@ tags:
   - joystick_p
   - joystick_s
 authors:
-  - kuznezov
+  - kuznetsov
 ---
 
 Звездные войны.

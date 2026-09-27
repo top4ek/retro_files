@@ -6,7 +6,7 @@ tags:
   - graphics
   - utility
 authors:
-  - kamsilin
+  - kamshilin
 ---
 
 # Пакет программ «View graphics»

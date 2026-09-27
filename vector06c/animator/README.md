@@ -6,7 +6,7 @@ tags:
   - editor
   - graphics
 authors:
-  - kuznezov
+  - kuznetsov
 ---
 
 ![Screenshot 1](animator21.png)
