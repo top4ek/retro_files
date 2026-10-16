@@ -9,7 +9,7 @@ authors:
   - thealfest
 ---
 
-Порт [модификации **Saboteur 2**](https://thealfest.itch.io/zx-spectrum-saboteur-2-mod) для ZX Spectrum на **Вектор-06Ц**.
+[Порт](https://thealfest.itch.io/saboteur-2-vector-06c) [модификации **Saboteur 2**](https://thealfest.itch.io/zx-spectrum-saboteur-2-mod) для ZX Spectrum на **Вектор-06Ц**.
 
 Оригинальная игра — **Clive Townsend**.
 
@@ -27,4 +27,4 @@ authors:
 
 ![Screenshot 1](saboteur1.png)
 
-![Screenshot 1](saboteur12png)
+![Screenshot 2](saboteur_2png)
