@@ -27,4 +27,4 @@ authors:
 
 ![Screenshot 1](saboteur1.png)
 
-![Screenshot 2](saboteur_2png)
+![Screenshot 2](saboteur2.png)
