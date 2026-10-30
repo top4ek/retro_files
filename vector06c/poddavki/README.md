@@ -6,9 +6,8 @@ tags:
   - board
   - game
 authors:
-  - lohona
+  - lohonya
 ---
 
 ![Screenshot 1](poddavki1.png)
-
 ![Screenshot 2](poddavki4.png)

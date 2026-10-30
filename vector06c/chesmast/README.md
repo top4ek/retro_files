@@ -13,5 +13,4 @@ authors:
 ---
 
 ![Screenshot 1](chesmast1.png)
-
 ![Screenshot 2](CHESMAST2.png)

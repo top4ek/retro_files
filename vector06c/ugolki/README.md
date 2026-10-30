@@ -6,7 +6,7 @@ tags:
   - board
   - game
 authors:
-  - lohona
+  - lohonya
 ---
 
 Шашечная игра «уголки».

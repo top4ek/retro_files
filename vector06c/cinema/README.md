@@ -8,7 +8,7 @@ tags:
   - sourcecode
 authors:
   - centr_ten
-  - terent_ev_s_v
+  - terentyev
   - tretyakov
 ---
 

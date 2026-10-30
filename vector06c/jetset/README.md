@@ -10,7 +10,7 @@ tags:
 authors:
   - avk
   - zastavnoj
-  - kuropatnikov
+  - kuropyatnikov
   - smit
 ---
 

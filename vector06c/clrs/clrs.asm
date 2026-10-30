@@ -1,0 +1,72 @@
+	ORG #100
+
+	DI
+	LD HL,#8000
+L1	LD (HL),0
+	INC L
+	JP NZ,L1
+	INC H
+	JP NZ,L1
+	LD A,#C3
+	LD (#38),A
+	LD HL,PPR
+	LD (#39),HL
+	LD SP,PROG+#400
+	LD HL,ENDP
+	PUSH HL
+	LD HL,LINE
+	LD A,#F8
+	PUSH AF
+	LD B,7
+L2	PUSH HL
+	PUSH AF
+	DEC B
+	JP NZ,L2
+	LD B,8
+	SUB A,B
+	JP NC,L2
+	XOR A,A
+	OUT (#02),A
+	LD SP,#100
+	EI
+	HALT
+	JP $-1
+
+PPR	LD BC,#EC
+P1	DEC BC
+	LD A,B
+	OR C
+	JP NZ,P1
+	NOP
+	NOP
+	LD BC,#703
+	LD D,1
+	LD SP,PROG
+LINE	POP AF
+	CP (HL)
+	CP (HL)
+	CP (HL)
+	NOP
+	OUT (#0C),A
+	XOR A,D
+	OUT (#0C),A
+	XOR A,C
+	OUT (#0C),A
+	XOR A,D
+	OUT (#0C),A
+	XOR A,B
+	OUT (#0C),A
+	XOR A,D
+	OUT (#0C),A
+	XOR A,C
+	OUT (#0C),A
+	XOR A,D
+	OUT (#0C),A
+	XOR A,A
+	OUT (#0C),A
+	RET
+ENDP	LD SP,#FE
+	EI
+	RET
+
+PROG:

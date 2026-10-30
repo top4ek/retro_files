@@ -1,12 +1,12 @@
 ---
-name: Узор — монитор
+name: Узор - монитор
 id: 645
 tags:
   - education
   - graphics
   - scientific
 authors:
-  - zhelnovpa
+  - zhelnov
 ---
 
 ![Screenshot 1](M_UZOR.png)

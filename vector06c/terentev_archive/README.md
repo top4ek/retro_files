@@ -4,7 +4,7 @@ tags:
   - document
   - hardware
 authors:
-  - terentev
+  - terentyev
 ---
 
 Архив разработок Сергея Терентьева.

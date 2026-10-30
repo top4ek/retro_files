@@ -7,7 +7,7 @@ tags:
   - game
   - puzzle
 authors:
-  - golubev_e
+  - golubev
 ---
 
 Вам предлагается логически-динамическая игра!

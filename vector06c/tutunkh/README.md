@@ -10,7 +10,7 @@ tags:
   - zx
 authors:
   - micromania
-  - kuropatnikov
+  - kuropyatnikov
   - lukin
 ---
 

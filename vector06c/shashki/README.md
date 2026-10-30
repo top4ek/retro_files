@@ -6,7 +6,7 @@ tags:
   - board
   - game
 authors:
-  - lohona
+  - lohonya
 ---
 
 ![Screenshot 1](SHASHKI1.png)

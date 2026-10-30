@@ -1,0 +1,226 @@
+;Тест клавиатуры от IBM
+;(c) Дмитрий Платонов, 1994
+;
+IBMKBD:
+	lxi	D, Hello
+	mvi	C, 9
+	call	5
+	mvi	A, 80h
+	out	4
+	mvi	A, 6
+	out	4
+	mvi	A, 81h
+	out	4
+	mvi	A, 70h
+	out	5
+	di
+	lhld	39h
+	shld	Rest38 + 1
+	lxi	H, GetKey
+	shld	39h
+	call	IBMKey
+	ei
+	lxi	D, Ok
+	mvi	C, 9
+	call	5
+	mvi	B, 0
+nxKey:	mov	A, B
+	out	0
+	xri	1
+	mov	B, A
+	mvi	A, 50
+nxDly:	dcr	A
+	jnz	nxDly
+	in	1
+	cpi	0E0h
+	jnc	nxKey
+Rest38:	lxi	H, 0
+	shld	39h
+	rst	0
+;
+GetKey:	push	PSW
+	push	B
+	push	D
+	push	H
+	mvi	B, 100
+nxTry:	in	5
+	ani	4
+	jz	KeyIs
+	dcr	B
+	jnz	nxTry
+	jmp	KeyEnd
+KeyIs:	call	IBMKey	;get scancode
+	cpi	0E0h
+	cz	IBMKey
+	cpi	0E1h
+	cz	IBMKey
+	mvi	B, 0
+	ani	127
+	lxi	H, KeyEnd
+	push	H	;prepare place to return
+	lxi	H, Ctrl	;is it CONTROL key?
+	cpi	1Dh
+	jnz	no1D
+RegKey:	mov	A, C	;get scancode
+	cma
+	ani	128	;get key state
+	mov	M, A	;store it
+	ret
+no1D:	lxi	H, Shift ;is it SHIFT key?
+	cpi	2Ah	;right SHIFT
+	jz	RegKey
+	cpi	36h	;left SHIFT
+	jz	RegKey
+	lxi	H, Alt	;is it ALT key?
+	cpi	38h
+	jz	RegKey
+	mov	A, C	;restore scancode
+	ana	A
+	rm		;return if key released
+	lxi	H, CpsLok ;is it CAPS LOCK key?
+	cpi	3Ah
+	jnz	no3A
+LokKey:	mov	A, M	;get old state
+	xri	128	;invert it
+	mov	M, A	;and store
+	ret
+no3A:	lxi	H, ScrLok ;is it SCROLL LOCK key?
+	cpi	46h
+	jz	LokKey
+	lxi	H, NumLok ;is it NUM LOCK key?
+	cpi	45h
+	jz	LokKey
+	pop	H
+	lxi	H, PutCod
+	push	H
+	jc	NormKy	;if scancode less than 45h, go to letter decoding
+	cpi	54h	;if scancode less than 56h, go to num pad decoding
+	jc	NumKBD
+	sui	17
+	mov	C, A
+NormKy:	lxi	H, OthKey - 1
+	dad	B
+	mov	A, M
+	cpi	33	;if control key or space - return
+	rc
+	mov	C, A
+	cpi	47	;if numeric key - jump
+	jc	NumPun
+	mov	C, A
+ttAlt:	mvi	A, 0	;take ALT key state
+ttScrL:	xri	0	;and compare it with SCROLLOCK state
+	mov	E, A
+	mov	A, C
+	lxi	H, 56
+	jz	LatFig	;some latin & russian figures are different
+	lxi	H, 0931h
+LatFig:	cmp	L	;is it letter key?
+	jnc	Letter	;jump if yes
+	add	H
+	mov	C, A
+NumPun:	lxi	H, NumCod - 66 ;take figure key decoding table address
+	lda	Shift	;check for shift pressed
+	ana	A
+	jmp	DcdKey	;and decode keycode
+Letter:	mvi	A, 0	;check CONTROL key state
+	ana	A
+	jz	noCtrl
+	mov	A, C	;else make control code
+	sui	55
+	ret
+noCtrl:	mov	A, E	;take rus/lat state (calculated before)
+	ana	A
+	jz	Latin
+	lxi	H, Rusian - 49
+	dad	B	;get russian letter code
+	mov	A, M
+	cpi	'╠'	;check for '╠'
+	jnz	ChkCps
+	mov	C, A
+	lda	CpsLok	;check for capitals
+ttShft:	xri	0
+	mov	A, C
+	rz
+	dcr	A
+	ret
+Latin:	mov	A, C	;calculate small latin letter code
+	adi	41
+ChkCps:	mov	C, A
+	lda	Shift	;check for capital letters: SHIFT key
+ttCpsL:	xri	0	;and CAPSLOCK state
+	rrc
+	rrc
+	xra	C
+	ret
+NumKBD:	lda	Shift	;take SHIFT key state
+ttNumL:	xri	0	;and compare it with NUMLOCK state
+	lxi	H, NumPad - 142 ;take decoding table address
+DcdKey:	dad	B	;add scancode
+	dad	B
+	jz	noFigr
+	inx	H	;and increment if needed
+noFigr:	mov	A, M
+	ret
+PutCod:
+	mov	E, A
+	mvi	C, 2
+	call	5
+KeyEnd:
+	pop	H
+	pop	D
+	pop	B
+	pop	PSW
+	ei
+	ret
+;
+Ctrl	set	Letter + 1
+Shift	set	ttShft + 1
+Alt	set	ttAlt + 1
+NumLok	set	ttNumL + 1
+CpsLok	set	ttCpsL + 1
+ScrLok	set	ttScrL + 1
+;
+NumPad:	db	1, '7', 5, '8', 18, '9--', 19, '4', 0, '5', 4, '6++'
+	db	6, '1', 24, '2', 3, '3', 22, '0', 7, '.'
+NumCod:	db	'**1!2@3#4$5%6^7&8*9(0)-_=+╪╦'
+	db	'~`\|[{]};:''",<.>/?":.,'
+Rusian:	db	'хъжэбю╠фисвуапршолдьтщзйкыегмцчня'
+OthKey:	db	27, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 127
+	db	 9, 72, 78, 60, 73, 75, 80, 76, 64, 70, 71, 49, 50, 13
+	db	 0, 56, 74, 59, 61, 62, 63, 65, 66, 67, 51, 52, 47, 0
+	db	48, 81, 79, 58, 77, 57, 69, 68, 53, 54, 55,  0, 33, 0
+	db	32,  0, 10,  7, 23,  3,  0,  0, 21, 25, 11, 17, 46, 0, 0
+;
+IBMKey:	mvi	A, 15
+	out	4
+	lxi	B, 0B00h
+nx000:	in	5
+	ani	4
+	jz	nx000
+	in	5
+	dcr	B
+	jz	KeyOvr
+	rrc
+	rrc
+	mov	A, C
+	rar
+	mov	C, A
+nx111:	in	5
+	ani	4
+	jnz	nx111
+	jmp	nx000
+KeyOvr:	mvi	A, 14
+	out	4
+	mov	A, C
+	ret
+;
+Hello:	db	13, 10, 'IBM keyboard test (XT mode),  v 1.10', 13, 10
+	db	'(c) Dmitry I. Platonoff, 1994', 13, 10, 10
+	db	'  initialising keyboard...', 13, 10, '$'
+Ok:	db	'Now you can hit any keys and look at characters', 13, 10
+	db	'Pressing a Vector''s SHIFT key will finish this program'
+	db	13, 10, '$'
+;
+	end	IBMKBD
+;
+

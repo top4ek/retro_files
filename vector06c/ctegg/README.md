@@ -5,7 +5,7 @@ date: 1990
 tags:
   - arcade
 authors:
-  - makisev
+  - myakishev
 ---
 
 Игра типа «поймай яйцо».

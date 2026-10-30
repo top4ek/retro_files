@@ -6,7 +6,7 @@ tags:
   - development
 authors:
   - kirillin
-  - klubovich
+  - klubovitch
   - nozdrunov
   - filatkin
 ---

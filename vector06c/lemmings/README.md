@@ -8,7 +8,7 @@ tags:
   - disk
   - game
 authors:
-  - sunami_1
+  - sunami
 ---
 
 Аналог игры «Лемминги» на PC.

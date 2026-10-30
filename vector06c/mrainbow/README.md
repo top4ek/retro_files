@@ -6,7 +6,7 @@ tags:
   - color-music
   - sound
 authors:
-  - centr_vector
+  - centr_vektor
   - ivanov_a
   - sirotin
 ---

@@ -12,7 +12,7 @@ Bad Apple для Вектора-06ц с музыкой на ВИ53. Требуе
 
 Code/Music: [svofski](../../authors/svo)
 
-VI53 Music Player: [Denis Grachev](../../authors/dgrachev)
+VI53 Music Player: [Denis Grachev](../../authors/grachev)
 
 dzx0: [ivagor](../../authors/ivagor)
 

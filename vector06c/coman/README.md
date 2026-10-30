@@ -23,67 +23,67 @@ Screen pages:
 
 Palette commands:
 
-<Cursor>         - move cursor.
+<Cursor> - move cursor.
 
-<Space>          - set RGB or return.
+<Space> - set RGB or return.
 
 <Shift>+<Number> - select palette.
 
-<Esc>            - change mode.
+<Esc> - change mode.
 
 Editor commands:
 
-<Esc>            - change mode.
+<Esc> - change mode.
 
-<Cursor>         - move cursor.
+<Cursor> - move cursor.
 
-<Spase>          - set pixel.
+<Spase> - set pixel.
 
-<R/L>+<Cursor>   - move cursor &amp; set pixel.
+<R/L>+<Cursor> - move cursor &amp; set pixel.
 
-<Ctrl>+<Cursor>  - shift screen.
+<Ctrl>+<Cursor> - shift screen.
 
-<Ctrl>+<Number>  - screen page view.
+<Ctrl>+<Number> - screen page view.
 
-<Ctrl>+<C>       - clear screen.
+<Ctrl>+<C> - clear screen.
 
-<Ctrl>+<I>       - inverse screen.
+<Ctrl>+<I> - inverse screen.
 
-<Ctrl>+<H>       - HEX-editor.
+<Ctrl>+<H> - HEX-editor.
 
-<Ctrl>+<R>       - change left &amp; right.
+<Ctrl>+<R> - change left &amp; right.
 
-<Ctrl>+<F1>      - insert horisontal line.
+<Ctrl>+<F1> - insert horisontal line.
 
-<Ctrl>+<F2>      - delete horisontal line.
+<Ctrl>+<F2> - delete horisontal line.
 
-<Ctrl>+<F4>      - insert vertical line.
+<Ctrl>+<F4> - insert vertical line.
 
-<Ctrl>+<F5>      - delete vertical line.
+<Ctrl>+<F5> - delete vertical line.
 
 I/O commands:
 
-<Ctrl>+<N>       - rename screen.
+<Ctrl>+<N> - rename screen.
 
-<Ctrl>+<O>       - save screen &amp; palette.
+<Ctrl>+<O> - save screen &amp; palette.
 
-<Ctrl>+<P>       - load screen &amp; palette.
+<Ctrl>+<P> - load screen &amp; palette.
 
-<Ctrl>+<M>       - load screen only.
+<Ctrl>+<M> - load screen only.
 
 Memory commands:
 
 <Shift>+<Number> - select memory screen.
 
-<Shift>+< -»    - view next memory screen.
+<Shift>+< -» - view next memory screen.
 
-<Shift>+«- >    - view previouse memory screen.
+<Shift>+«- > - view previouse memory screen.
 
-<Ctrl>+<S>       - save screen to memory.
+<Ctrl>+<S> - save screen to memory.
 
-<Ctrl>+<L>       - load screen from memory.
+<Ctrl>+<L> - load screen from memory.
 
-<Ctrl>+<X>       - change screen &amp; memory.
+<Ctrl>+<X> - change screen &amp; memory.
 
 ![Screenshot 1](coman.png)
 
