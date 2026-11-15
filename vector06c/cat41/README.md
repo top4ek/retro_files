@@ -8,6 +8,6 @@ authors:
   - filippov
 ---
 
-Демонстрация из спрайтового пакета «Basic Animation Sprite Subroutines» (BASS) — cпрайтовая мультипликация для BASIC 2.5.
+Демонстрация из спрайтового пакета «Basic Animation Sprite Subroutines» (BASS) — спрайтовая мультипликация для BASIC 2.5.
 
 ![Screenshot 1](CAT411.png)

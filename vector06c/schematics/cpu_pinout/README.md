@@ -9,4 +9,4 @@ authors:
 
 Распиновка процессоров, использующихся в Векторе и его клонах: КР580ВМ80А, i8080, К580ВМ1, i8085, Z80.
 
-![Screenshot 1](clipboard01.png)
+![Screenshot 1](clipboard.png)

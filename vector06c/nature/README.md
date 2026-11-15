@@ -1,5 +1,5 @@
 ---
-title: Nature
+name: Nature
 tags:
   - demo
   - missing

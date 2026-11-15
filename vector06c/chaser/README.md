@@ -13,8 +13,7 @@ authors:
 
 Очистить лабиринт, избегая встречи с черепом.
 В архиве есть также обессмерченная версия [im].
-См. также Gapper, [Experiment 1](../demosfan/1999/experiment1).
-
+См. также [Gapper](../gapper), [Experiment 1](../demosfan/1999/experiment1).
 
 ![Screenshot 1](chaser1.png)
 ![Screenshot 2](chaser2.png)

@@ -16,6 +16,6 @@ authors:
 
 Управление: стрелки + `CC`, или джойстик "С" на любом из портов: $0e,$0f,$2e,$2f.
 
-См.также [Up The River](../up_the_river).
+См. также [Up The River](../up_the_river).
 
 ![Screenshot 1](incurzion.png)

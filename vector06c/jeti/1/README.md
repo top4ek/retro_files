@@ -16,7 +16,7 @@ authors:
 Это первая игра про Йети.
 Есть также [вторая игра про Йети](../2).
 
-См. также [Basic Animation Sprite Subroutines (BASS)](../bass).
+См. также [Basic Animation Sprite Subroutines (BASS)](../../bass).
 
 ![Screenshot 1](jeti1.png)
 ![Screenshot 2](jeti2.png)

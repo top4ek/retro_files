@@ -29,4 +29,4 @@ https://github.com/svofski/bin2wav
 
 https://github.com/svofski/bin2wav/releases/latest
 
-См.также [Конвертер ROM2WAV](../ramiros), [bin2wav (DDp)](../ddp)
+См. также [Конвертер ROM2WAV](../ramiros), [bin2wav (DDp)](../ddp)

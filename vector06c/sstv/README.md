@@ -48,10 +48,10 @@ authors:
 
 Для запуска в эмуляторе VV установить опции Tape Loader Configuration: Delay=8, Point of Zero=&ndash;8
 
-В архиве представлены примеры WAV-файлов SSTV, статья из журнала Радиолюбитель №7 за 1995 г. и скриншоты.
+В архиве представлены примеры WAV-файлов SSTV, [статья из журнала «Радиолюбитель» № 7 за 1995 г.](../radiolubitel/rl/1995_07_p35) о приёмной части и скриншоты.
 Загрузочный образ диска содержит две версии программы (полная и Receiver only).
 
-![Screenshot 1](sstv_test-2_2.png)
-![Screenshot 2](sstv_test-2.png)
+![Screenshot 1](sstv1.png)
+![Screenshot 2](sstv2.png)
 ![Screenshot 3](20_years.jpg)
 ![Screenshot 4](settings.jpg)

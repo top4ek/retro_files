@@ -10,6 +10,6 @@ authors:
 Просто картинка.
 Найдена при оцифровке кассеты.
 
-См. так же [Mech](../mech), [Saboteur](../saboteur)
+См. также [Mech](../mech), [Saboteur](../saboteur)
 
 ![Screenshot 1](tiger.png)

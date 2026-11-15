@@ -20,7 +20,7 @@ authors:
 
 [http://bashkiria-2m.narod.ru/](http://bashkiria-2m.narod.ru/) 07/10/2009»
 
-См.также [chkvi53](../chkvi53)
+См. также [chkvi53](../chkvi53)
 
 ![Screenshot 1](I8253_2.png)
 ![Screenshot 2](tst8253.png)

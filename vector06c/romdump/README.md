@@ -31,7 +31,7 @@ authors:
 
 В методике используется процедура записи файла в формате ROM из [Байт](../byte) №8
 
-и идея b2m с форума zx.pk.ru см. [http://zx.pk.ru/showpost.php?p=195110&postcount=12](http://zx.pk.ru/showpost.php?p=195110&postcount=12)
+и идея b2m с форума zx.pk.ru см. [https://zx-pk.ru/showpost.php?p=195110&postcount=12](https://zx-pk.ru/showpost.php?p=195110&postcount=12)
 
 Методика копирования:
 

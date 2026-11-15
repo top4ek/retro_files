@@ -7,7 +7,7 @@ tags:
   - hardware
   - programming
 authors:
-  - bykov
+  - byk
 ---
 
 Публикация из «Радиолюбитель. Ваш компьютер» - 2000 - №9. - С.39,40.

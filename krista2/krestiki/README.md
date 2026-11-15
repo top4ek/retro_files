@@ -10,13 +10,13 @@ authors:
   - zrp
 ---
 
-Игра «[Крестики-нолики](../kresnull)».
+Игра «[Крестики-нолики](../../vector06c/kresnull)».
 
 Входит в состав ПО базовой кассеты ПК «Криста-2».
 
 Файлы:
 
-A05-Krestiki-Noliki.wav — формат «Криста-2» (с  заставкой)
+A05-Krestiki-Noliki.wav — формат «Криста-2» (с заставкой)
 
 A05-Krestiki-Noliki.r44 — для запуска с адреса 4400h
 
@@ -24,7 +24,7 @@ A05-Krestiki-Noliki.r44 — для запуска с адреса 4400h
 
 [http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm](http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm)
 
-Первый скриншот сделан из программы [Загрузчик MBR (версия 4.0)](../mbr), второй из [Копия Б](../a10_copyb).
+Первый скриншот сделан из программы [Загрузчик MBR (версия 4.0)](../../vector06c/mbr), второй из [Копия Б](../copy/b).
 
 См. также Крестики-нолики
 

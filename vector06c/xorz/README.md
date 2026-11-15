@@ -10,8 +10,8 @@ authors:
   - ivagor
 ---
 
-Оригинальная игра для MSX (на бейсике) - METAL SOFT (Vampier & Hydragon) (см. результаты MSXDEV09 - [http://msxdev.msxblue.com/status.htm](http://msxdev.msxblue.com/status.htm)).
-Приведенный по предыдущей ссылке скриншот относится к предварительной версии, вот окончательный вариант - [http://msxdev.msxblue.com/msxdev09/roms/x0rz_final_package.zip](http://msxdev.msxblue.com/msxdev09/roms/x0rz_final_package.zip)
+Оригинальная игра для MSX (на бейсике) - METAL SOFT (Vampier & Hydragon) (см. результаты MSXDEV09 - [https://www.msxdev.org/msxdev-archive/msxdev09/](https://www.msxdev.org/msxdev-archive/msxdev09/)).
+Приведенный по предыдущей ссылке скриншот относится к предварительной версии, вот окончательный вариант - [https://www.msxdev.org/wp-content/uploads/2017/09/msxdev09_games.zip](https://www.msxdev.org/wp-content/uploads/2017/09/msxdev09_games.zip)
 
 Версия для Вектора (на ассемблере) - Иван Городецкий (IvaGor, retrocom@yandex.ru, retrocomp.narod.ru).
 

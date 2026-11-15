@@ -19,7 +19,6 @@ authors:
 
 basic25z.r0m - адаптация к z80, авторы [Иван Городецкий](../../../authors/ivagor) и [Александр Тимошенко](../../../authors/timsoft).
 
-bas25zay.r0m - Тоже самое, что и basic25z.r0m, только PLAY играет не через ВИ53, а через Sound Tracker (Иван Городецкий, 14.07.2009)
-
+bas25zay.r0m - То же самое, что и basic25z.r0m, только PLAY играет не через ВИ53, а через Sound Tracker (Иван Городецкий, 14.07.2009)
 
 ![Screenshot 1](basic251.png)

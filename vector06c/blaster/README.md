@@ -3,8 +3,8 @@ name: Blaster
 tags:
   - arcade
   - game
-  - joystic_p
-  - joystic_s
+  - joystick_p
+  - joystick_s
   - vi53
   - shooter
 authors:

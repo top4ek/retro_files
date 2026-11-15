@@ -29,7 +29,7 @@ authors:
 
 — PPC
 
-Источник: [http://zx.pk.ru/showthread.php?t=19922](http://zx.pk.ru/showthread.php?t=19922)
+Источник: [https://zx-pk.ru/showthread.php?t=19922](https://zx-pk.ru/showthread.php?t=19922)
 
 ![Screenshot 1](robotz1.png)
 ![Screenshot 2](robotz2.png)

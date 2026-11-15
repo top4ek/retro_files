@@ -24,7 +24,7 @@ B02-BASIC.r0m — для запуска с адреса 0000h
 
 [http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm](http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm)
 
-Эта версия Бейсика представляет сбой [Basic v(1.3) Color](../../vector06c/basic/1.3) с удаленными признаками авторства и измененным названием.
+Эта версия Бейсика представляет собой [Basic v(1.3) Color](../../vector06c/basic/1.3) с удаленными признаками авторства и измененным названием.
 
 ![Screenshot 1](B02-BASIC_1.png)
 

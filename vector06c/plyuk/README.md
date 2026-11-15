@@ -1,5 +1,5 @@
 ---
-title: Плюк
+name: Плюк
 date: 2024.09
 authors:
   - retrosouls
@@ -23,7 +23,7 @@ authors:
 
 Музыка [Олега Никитина](../../authors/onikitin)
 
-Тестировал [Артёмка Васильев](../../authors/avasiliev)
+Тестировал [Артёмка Васильев](../../authors/vasiliev)
 
 Лицензия: [CC BY-NC-SA 4.0](LICENSE.md).
 

@@ -1,5 +1,5 @@
 ---
-title: Tank Ware
+name: Tank War
 authors:
   - barvinenko
 tags:

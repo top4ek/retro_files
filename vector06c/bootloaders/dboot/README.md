@@ -11,6 +11,6 @@ authors:
 ---
 
 Дисковый загрузчик.
-Подробное описание в [Electronic Magazine](../electronic_magazine) (№2).
+Подробное описание в [Electronic Magazine](../../electronic_magazine) (№2).
 
 ![Screenshot 1](boot1.png)

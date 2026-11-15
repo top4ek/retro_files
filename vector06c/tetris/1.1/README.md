@@ -9,7 +9,7 @@ authors:
   - gambarin
 ---
 
-См. также: [Тетрис (Криста-2)](../tetris_krista)
+См. также: [Тетрис (Криста-2)](../../../krista2/tetris)
 
 ![Screenshot 1](tetris1.png)
 ![Screenshot 2](tetris2.png)

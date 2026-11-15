@@ -14,7 +14,7 @@ authors:
 
 Игра долгое время находилась "в розыске".
 
-Восстановлена с кассеты (Jons, форум [http://zx.pk.ru](http://zx.pk.ru)).
+Восстановлена с кассеты (Jons, форум [https://zx-pk.ru](https://zx-pk.ru)).
 
 ![Screenshot 1](ceilon1.png)
 

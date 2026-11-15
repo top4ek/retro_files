@@ -12,9 +12,9 @@ authors:
 ---
 
 Игра, похожая на International Karate.
-Включена в состав журнала [Scaner №5](../../scaner/5) вместе с intro и cheater-ом от [S.E.S.](../../authors/ses) (см. раздел «Приложение»)
+Включена в состав журнала [Scaner №5](../../scaner/5) вместе с intro и cheater-ом от [S.E.S.](../../../authors/ses) (см. раздел «Приложение»)
 
-См. также оригинал [Best Of The Best](../best)
+См. также оригинал [Best Of The Best](../1)
 
 https://demozoo.org/productions/142282/
 

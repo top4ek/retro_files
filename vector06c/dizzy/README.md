@@ -14,6 +14,7 @@ tags:
 - [Dizzy (реклама 1)](adv1)
 - [Dizzy (реклама 2)](adv2)
 - [Dizzy 1.00](s)
+- [Диззи от Элиты](dizzi)
 
 ![Screenshot 1](./adv1/dizzy_adv1.png)
 

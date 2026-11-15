@@ -16,7 +16,7 @@ authors:
 ## В архиве
 
 - `save_b2m.emu` - «сохранение» для эмулятора [http://bashkiria-2m.narod.ru/](http://bashkiria-2m.narod.ru/)
-- `save_ramiros.ram` - «сохранение» для эмулятора Игоря Титаря [Эмулятор «Virtual Vector»](../virtual_vector) ([http://vector06c.narod.ru](http://vector06c.narod.ru))
+- `save_ramiros.ram` - «сохранение» для эмулятора Игоря Титаря [Эмулятор «Virtual Vector»](../../virtual_vector) ([http://vector06c.narod.ru](http://vector06c.narod.ru))
 
 ![Screenshot 1](save_b2m1_.png)
 

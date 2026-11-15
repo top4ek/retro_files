@@ -1,5 +1,5 @@
 ---
-title: To Rise
+name: To Rise
 authors:
   - ses
   - akhramov

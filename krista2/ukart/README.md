@@ -23,7 +23,7 @@ A07-UKart.r0m — для запуска с адреса 0000h
 
 [http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm](http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm)
 
-Первый скриншот сделан из программы [Загрузчик MBR (версия 4.0)](../mbr), второй из [Копия Б](../a10_copyb).
+Первый скриншот сделан из программы [Загрузчик MBR (версия 4.0)](../../vector06c/mbr), второй из [Копия Б](../copy/b).
 
 ![Screenshot 1](A07-UKart_1.png)
 

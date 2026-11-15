@@ -12,7 +12,7 @@ authors:
 
 Работы:
 
-[invitation](invitation)
+[invitation](invitaion)
 
 [Ambal-3D](../../ambal3d/)
 

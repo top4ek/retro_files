@@ -15,6 +15,6 @@ authors:
 
 Автор честно признается, что это «переделочки».
 
-См. [Down To Earth](../dte_lebedev).
+См. [Down To Earth](../lebedev).
 
 ![Screenshot 1](DEAR-BST1.png)

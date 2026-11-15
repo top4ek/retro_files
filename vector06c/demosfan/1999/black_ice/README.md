@@ -13,13 +13,11 @@ youtube:
 
 Бодрая демка с энергичной музыкой и мультиколором.
 
-Другие демки с растровыми видеоэффектами: [Multicolor](../../../multicolor), [Dizzy (реклама 1)](../../../dizzy_adv1)
-
+Другие демки с растровыми видеоэффектами: [Multicolor](../../../multicolor), [Dizzy (реклама 1)](../../../dizzy/adv1)
 
 https://demozoo.org/productions/314573/
 
 https://www.pouet.net/prod.php?which=92862
-
 
 Процессор: КР580ВМ80А
 

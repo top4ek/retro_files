@@ -17,7 +17,7 @@ authors:
 
 Клавиши управления:
 
-РУС/ЛАТ	— изменение скорости записи (1&ndash;4)
+РУС/ЛАТ — изменение скорости записи (1&ndash;4)
 
 СС (РЕГ) — запуск
 
@@ -27,12 +27,12 @@ authors:
 
 CopyB.wav — формат «Криста-2» (с заставкой)
 
-CopyB.r59 — для запуска с адреса 5900h ([Эмулятор «Virtual Vector»](../virtual_vector))
+CopyB.r59 — для запуска с адреса 5900h ([Эмулятор «Virtual Vector»](../../../vector06c/virtual_vector))
 
 Файлы получены из wav c оригинальной кассеты (оцифровал fan):
 
 [http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm](http://sblive.narod.ru/ZX-Spectrum/Krista2/Krista2.htm)
 
-![Screenshot 1](A10-CopyB_1.png)
+![Screenshot 1](CopyB1.png)
 
-![Screenshot 2](A10-CopyB_2.png)
+![Screenshot 2](CopyB2.png)

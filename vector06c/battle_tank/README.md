@@ -4,18 +4,18 @@ date: 1991
 tags:
   - arcade
   - game
-  - joystic_p
-  - joystic_s
+  - joystick_p
+  - joystick_s
   - msx
   - shooter
 authors:
   - centr_computer
 ---
 
-Клон игры с неизвестным именем с неизвестной платформы.
-Геймплеем игра больше всего напоминает Tank Battalion.
+Первоначально игра считалась клоном игры с неизвестным именем и с неизвестной платформы.
+Геймплеем она больше всего напоминает Tank Battalion.
 
-ВНЕЗАПНО оказалось, что это порт довольно редкой игры "Lonesome Tank" (MSX)
+Позже выяснилось, что это порт довольно редкой игры "Lonesome Tank" (MSX).
 
 http://www.generation-msx.nl/msxdb/softwareinfo/87
 

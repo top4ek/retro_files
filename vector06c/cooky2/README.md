@@ -13,7 +13,7 @@ authors:
 
 Игра про повара на кухне.
 
-См.также [Cookie](../cookie).
+См. также [Cookie](../cookie).
 
 ![Screenshot 1](cooky21.png)
 

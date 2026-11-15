@@ -8,9 +8,9 @@ authors:
   - coman
 ---
 
-В выпуске №23 [информационного бюллетеня «COMAN-INFO»](../coman_info) рекламировался сборник игр «Б», состоящий из игр [Color Lines](../color_lines), [Pipe Dream](../pipe_dream), [Electrobody](../electrobody),[SQUARES](../squares),[Hawk](../hawk),[Maniac](../maniac).
+В выпуске №23 [информационного бюллетеня «COMAN-INFO»](../coman_info) рекламировался сборник игр «Б», состоящий из игр [Color Lines](../color_lines), [Pipe Dream](../pipe_dream), [Electrobody](../electrobody), [SQUARES](../squares), [Hawk](../hawk), [Maniac](../maniac).
 
-По причине недостаточного количества заказов в сборник вошло только две первых игры, судьба остальных пока неизвестна.
+По причине недостаточного количества заказов в сборник вошло только две первые игры, судьба остальных пока неизвестна.
 
 (Из домашнего архива Evgenmak)
 

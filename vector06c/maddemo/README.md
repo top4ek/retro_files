@@ -11,6 +11,6 @@ authors:
 
 Демо-реклама музыкального редактора [Mad Music Editor](../mad).
 
-См. также [Mad Music Editor Info](../mad_music_editor_info).
+См. также [Mad Music Editor Info](../mad_info).
 
 ![Screenshot 1](maddemo.png)

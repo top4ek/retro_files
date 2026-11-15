@@ -6,7 +6,7 @@ tags:
   - magazine
   - hardware
 authors:
-  - bykov
+  - byk
 ---
 
 Публикация из «Радиолюбитель. Ваш компьютер» - 2000 - №6. - С.43.

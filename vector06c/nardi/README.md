@@ -1,5 +1,5 @@
 ---
-title: Нарды
+name: Нарды
 tags:
   - board
   - game

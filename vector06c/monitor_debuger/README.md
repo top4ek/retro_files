@@ -17,6 +17,9 @@ tags:
 - [Монитор-отладчик V(2.8)](mon28)
 - [Монитор V 4.0](mon40)
 - [Monitor «HIGH»+EDASM](monedasm)
+- [Монитор PRIBOR](monpribm)
+- [Загрузчик «Вектор-06Ц» (монитор-отладчик)](nrom2v00)
+- [Монитор-взломщик 1](vzl)
 
 ![Screenshot 1](./2.5/mon25.png)
 
