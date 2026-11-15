@@ -40,7 +40,7 @@ youtube:
 
 RetroSouls Team, сентябрь 2023.
 
-Контакты: retrosouls@mail.ru, [retrosouls.net](https://www.retrosouls.net), [retrosouls.itch.io](https://retrosouls.itch.io/).
+Контакты: retrosouls at mail.ru, [retrosouls.net](https://www.retrosouls.net), [retrosouls.itch.io](https://retrosouls.itch.io/).
 
 Исходники: [https://github.com/DenisGrachev/OldTowerVector06c](https://github.com/DenisGrachev/OldTowerVector06c)
 

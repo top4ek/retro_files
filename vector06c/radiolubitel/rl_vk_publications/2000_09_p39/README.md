@@ -133,7 +133,7 @@ CINP:  IN 05         ; ждем появления "1" в разряде 00
 BV_Creator,
 г.Москва,
 Fido: 2:5020/689.53
-E-mail: asder_ffc@softhome.net
+E-mail: asder_ffc at softhome.net
 http://www.zx.ru./echo/roschin
 
 Примечания к расшифровке:

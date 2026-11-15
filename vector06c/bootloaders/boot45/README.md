@@ -249,7 +249,7 @@ authors:
 Александр Тимошенко (aka TIMSoft)
 
 - URL: [http://vector06c.narod.ru](http://vector06c.narod.ru)
-- E-mail: timsoft@mail.ru
+- E-mail: timsoft at mail.ru
 - ICQ UIN: #22350135 (Sherhan)
 
 Ваши отзывы, замечания и пожелания будут с интересом рассмотрены.

@@ -30,6 +30,6 @@ authors:
 
 ## Авторы материала
 
-Загрузчик оцифровал при помощи [ROM-REAPER (копировщик загрузчика)](../../romreaper): Иван Городецкий, iig1@mail.ru
+Загрузчик оцифровал при помощи [ROM-REAPER (копировщик загрузчика)](../../romreaper): Иван Городецкий, iig1 at mail.ru
 
-Материал подготовил: Александр Тимошенко, timsoft@mail.ru, [http://vector06c.narod.ru](http://vector06c.narod.ru)
+Материал подготовил: Александр Тимошенко, timsoft at mail.ru, [http://vector06c.narod.ru](http://vector06c.narod.ru)

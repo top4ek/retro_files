@@ -26,8 +26,8 @@ authors:
 
 
 Авторы адаптации:
-Версия для Вектора-06ц - Иван Городецкий, г. Уфа, Россия, retrocomp@yandex.ru, retrocomp.narod.ru
-Рекомпиляция игры с z80 на КР580 - Александр Тимошенко, г. Чернигов, Украина, timsoft@mail.ru, vector06c.narod.ru
+Версия для Вектора-06ц - Иван Городецкий, г. Уфа, Россия, retrocomp at yandex.ru, retrocomp.narod.ru
+Рекомпиляция игры с z80 на КР580 - Александр Тимошенко, г. Чернигов, Украина, timsoft at mail.ru, vector06c.narod.ru
 
 
 v 1.0 - 27.04.2010

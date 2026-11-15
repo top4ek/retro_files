@@ -63,7 +63,7 @@ authors:
 
 10. По окончании записи сохранить полученный файл в формате WAV и выслать по указанному ниже адресу
 
-timsoft@mail.ru
+timsoft at mail.ru
 
 [http://vector06c.narod.ru](http://vector06c.narod.ru)
 

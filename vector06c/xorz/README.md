@@ -13,7 +13,7 @@ authors:
 Оригинальная игра для MSX (на бейсике) - METAL SOFT (Vampier & Hydragon) (см. результаты MSXDEV09 - [https://www.msxdev.org/msxdev-archive/msxdev09/](https://www.msxdev.org/msxdev-archive/msxdev09/)).
 Приведенный по предыдущей ссылке скриншот относится к предварительной версии, вот окончательный вариант - [https://www.msxdev.org/wp-content/uploads/2017/09/msxdev09_games.zip](https://www.msxdev.org/wp-content/uploads/2017/09/msxdev09_games.zip)
 
-Версия для Вектора (на ассемблере) - Иван Городецкий (IvaGor, retrocom@yandex.ru, retrocomp.narod.ru).
+Версия для Вектора (на ассемблере) - Иван Городецкий (IvaGor, retrocom at yandex.ru, retrocomp.narod.ru).
 
 Простая логическая игрушка.
 Цель - «даунгрейдя» группы блоков игрового поля, превратить все его элементы в белые.

@@ -7,7 +7,7 @@ images:
 ---
 Homebrew Games by RetroSouls Team
 
-Контакты: retrosouls@mail.ru
+Контакты: retrosouls at mail.ru
 https://www.retrosouls.net
 https://retrosouls.itch.io/
 

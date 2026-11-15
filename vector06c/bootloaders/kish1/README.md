@@ -33,4 +33,4 @@ authors:
 
 ## Автор материала
 
-Материал подготовил: Александр Тимошенко, timsoft@mail.ru, [http://vector06c.narod.ru](http://vector06c.narod.ru)
+Материал подготовил: Александр Тимошенко, timsoft at mail.ru, [http://vector06c.narod.ru](http://vector06c.narod.ru)
