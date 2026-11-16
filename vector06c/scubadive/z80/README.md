@@ -19,12 +19,11 @@ url:
 
 Для машины с КР580ВМ80А доступна [версия Scuba Dive DX](../dx/README.md). Версия i8080 и DX также опубликованы в [репозитории проекта DX](https://github.com/reqw41/scubadive-dx-v06c).
 
-| Файл                                     | Описание              |
-| ---------------------------------------- | --------------------- |
-| [scuba.rom](scuba.rom)                   | Игра                  |
-| [scuba-cheats.rom](scuba-cheats.rom)     | Игра с читами         |
-| [scuba-cheatoxy.rom](scuba-cheatoxy.rom) | Вариант cheatoxy      |
-| [scubadive.7z](scubadive.7z)             | Архив исходных файлов |
+| Файл                                     | Описание         |
+| ---------------------------------------- | ---------------- |
+| [scuba.rom](scuba.rom)                   | Игра             |
+| [scuba-cheats.rom](scuba-cheats.rom)     | Игра с читами    |
+| [scuba-cheatoxy.rom](scuba-cheatoxy.rom) | Вариант cheatoxy |
 
 ![Игровой экран](gameplay.png)
 
