@@ -4,6 +4,7 @@ date: 2026
 tags:
   - game
   - arcade
+  - sourcecode
 authors:
   - durell
   - nzeemin
@@ -11,7 +12,7 @@ authors:
 url: https://github.com/reqw41/scubadive-dx-v06c
 ---
 
-Версия Scuba Dive для Вектора-06Ц с процессором КР580ВМ80А, основанная на Z80-портe [Никиты Зимина](../../authors/nzeemin).
+Версия Scuba Dive для «Вектора-06Ц» с процессором КР580ВМ80А, основанная на [Z80-порте](../z80/README.md) Никиты Зимина.
 Доступны русская и английская версии, с заставкой и без неё.
 
 - [Русская версия с заставкой](scuba-dx-splash.rom)
