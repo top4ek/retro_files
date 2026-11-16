@@ -25,6 +25,8 @@ authors:
 
 Возможно, вам пригодится [**карта игры**](saboteur_map.png).
 
+См. также: [Saboteur — порт nzeemin](../saboteur1/), [Saboteur](../saboteur/).
+
 ![Screenshot 1](saboteur1.png)
 
 ![Screenshot 2](saboteur2.png)

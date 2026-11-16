@@ -14,7 +14,7 @@ authors:
 
 Найденный сейф можно взорвать и взять деньги. Теперь с полным снаряжением вы должны найти ракету и...»
 
-См. также [Tiger](../tiger)
+См. также: [Saboteur — порт nzeemin](../saboteur1/), [Saboteur 2](../saboteur2/), [Tiger](../tiger).
 
 ![Screenshot 1](saboteur1.png)
 
