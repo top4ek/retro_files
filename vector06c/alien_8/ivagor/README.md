@@ -20,6 +20,8 @@ authors:
 
 [http://vector06c.narod.ru](http://vector06c.narod.ru) (см. архив с играми для Z80)
 
+См. также: [порт Alien 8 с ZX Spectrum](../likhachev/) для обычного Вектора-06Ц и [Knight Lore](../../knight_lore/) — другая изометрическая игра Ultimate.
+
 ![Screenshot 1](alien81.png)
 
 ![Screenshot 2](alien82.png)
