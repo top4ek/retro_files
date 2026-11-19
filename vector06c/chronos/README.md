@@ -12,3 +12,7 @@ authors:
 
 ![Screenshot 1](chronos1.png)
 ![Screenshot 2](chronos2.png)
+
+## См. также
+
+- [Uridium](../uridium/) — космический скролл-шутер, порт версии ZX Spectrum.

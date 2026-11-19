@@ -16,3 +16,7 @@ authors:
 ![Screenshot 1](spacop1.png)
 
 ![Screenshot 2](spacop2.png)
+
+## См. также
+
+- [Uridium](../uridium/) — космический скролл-шутер, порт версии ZX Spectrum.
