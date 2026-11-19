@@ -16,3 +16,5 @@ authors:
 ![Screenshot 1](cosman1.png)
 
 ![Screenshot 2](cosman2.png)
+
+См. также [Jetpac](../jetpac/) — аркаду о космонавте с реактивным ранцем.

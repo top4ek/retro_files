@@ -18,3 +18,5 @@ authors:
 ![Screenshot 1](terminus1.png)
 
 ![Screenshot 2](terminus2.png)
+
+См. также [Jetpac](../jetpac/) — аркаду с полётами на реактивном ранце и стрельбой по пришельцам.
