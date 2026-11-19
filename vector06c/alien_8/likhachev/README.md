@@ -47,7 +47,6 @@ url: https://github.com/reqw41/alien8-v06c
 ## См. также
 
 - [Alien 8 — адаптация с MSX](../ivagor/) для Вектора с Z80.
-- [Knight Lore](../../knight_lore/) — другая изометрическая игра Ultimate, адаптированная с MSX для Вектора с Z80.
-- [Quazatron](../../quazatron/) — изометрическая игра, портированная на обычный Вектор-06Ц.
+- [Quazatron](../../quazatron/) — изометрическая игра, портированная на Вектор-06Ц.
 
 Исходный код, инструкции по сборке и подробности порта — в [репозитории проекта](https://github.com/reqw41/alien8-v06c). Alien 8 © 1985 Ultimate Play The Game.
