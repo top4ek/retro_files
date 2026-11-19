@@ -15,3 +15,7 @@ authors:
 
 ![Screenshot 1](ninja1.png)
 ![Screenshot 2](ninja2.png)
+
+## Похожие игры
+
+- [Ninja](../ninja/) — другая аркада о ниндзя.
